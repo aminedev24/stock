@@ -1,0 +1,794 @@
+[
+  {
+    "series": "NISSAN ELGRAND",
+    "year": "2019",
+    "mileage": "43000(km)",
+    "price": "FOB: $14,712",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12500422_carP_l_1.jpg",
+    "link": "/vehicles/nissan/elgrand/240854929"
+  },
+  {
+    "series": "TOYOTA 86",
+    "year": "2012",
+    "mileage": "99000(km)",
+    "price": "FOB: $6,629",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12900180_carP_l_1.jpg",
+    "link": "/vehicles/toyota/86/240854644"
+  },
+  {
+    "series": "DAIHATSU MOVE",
+    "year": "2019",
+    "mileage": "54728(km)",
+    "price": "FOB: $4,184",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12900700_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/move/240854625"
+  },
+  {
+    "series": "DAIHATSU MOVE",
+    "year": "2019",
+    "mileage": "39962(km)",
+    "price": "FOB: $5,086",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12900695_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/move/240854624"
+  },
+  {
+    "series": "MITSUBISHI DELICA MINI",
+    "year": "2023",
+    "mileage": "500(km)",
+    "price": "FOB: $13,144",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12879392_carP_l_1.jpg",
+    "link": "/vehicles/mitsubishi/delica-mini/240854294"
+  },
+  {
+    "series": "MITSUBISHI DELICA D:3",
+    "year": "2012",
+    "mileage": "104000(km)",
+    "price": "FOB: $2,857",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12885875_carP_l_1.jpg",
+    "link": "/vehicles/mitsubishi/delica-d:3/240854196"
+  },
+  {
+    "series": "TOYOTA LAND CRUISER",
+    "year": "2023",
+    "mileage": "291(km)",
+    "price": "FOB: $64,827",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12836669_carP_l_1.jpg",
+    "link": "/vehicles/toyota/land-cruiser/240852958"
+  },
+  {
+    "series": "SUZUKI WAGON R STINGRAY",
+    "year": "2017",
+    "mileage": "57000(km)",
+    "price": "FOB: $5,067",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12815287_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/wagon-r-stingray/240852587"
+  },
+  {
+    "series": "BMW 1 SERIES",
+    "year": "2016",
+    "mileage": "84912(km)",
+    "price": "FOB: $5,397",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12715546_carP_l_1.jpg",
+    "link": "/vehicles/bmw/1-series/240847899"
+  },
+  {
+    "series": "NISSAN AURA",
+    "year": "2021",
+    "mileage": "67517(km)",
+    "price": "FOB: $11,747",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12715510_carP_l_1.jpg",
+    "link": "/vehicles/nissan/aura/240847898"
+  },
+  {
+    "series": "SUZUKI ALTO",
+    "year": "2019",
+    "mileage": "10179(km)",
+    "price": "FOB: $3,556",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/11346230_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/alto/240846650"
+  },
+  {
+    "series": "TOYOTA COROLLA TOURING",
+    "year": "2019",
+    "mileage": "19130(km)",
+    "price": "FOB: $11,036",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12540228_carP_l_1.jpg",
+    "link": "/vehicles/toyota/corolla-touring/240843171"
+  },
+  {
+    "series": "DAIHATSU TANTO",
+    "year": "2014",
+    "mileage": "63100(km)",
+    "price": "FOB: $5,969",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12282585_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/tanto/240837864"
+  },
+  {
+    "series": "SUZUKI WAGON R",
+    "year": "2017",
+    "mileage": "43930(km)",
+    "price": "FOB: $4,318",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/11343170_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/wagon-r/240837842"
+  },
+  {
+    "series": "MERCEDES BENZ MERCEDES BENZ OTHER",
+    "year": "2015",
+    "mileage": "37147(km)",
+    "price": "FOB: $14,859",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12287871_carP_l_1.jpg",
+    "link": "/vehicles/mercedes-benz/mercedes-benz-other/240837819"
+  },
+  {
+    "series": "TOYOTA COASTER",
+    "year": "2018",
+    "mileage": "65267(km)",
+    "price": "FOB: $40,627",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12343939_carP_l_1.jpg",
+    "link": "/vehicles/toyota/coaster/240837797"
+  },
+  {
+    "series": "SUZUKI CARRY TRUCK",
+    "year": "2016",
+    "mileage": "79607(km)",
+    "price": "FOB: $3,162",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12211489_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/carry-truck/240837714"
+  },
+  {
+    "series": "SUBARU FORESTER",
+    "year": "2022",
+    "mileage": "14205(km)",
+    "price": "FOB: $23,812",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12446454_carP_l_1.jpg",
+    "link": "/vehicles/subaru/forester/240837648"
+  },
+  {
+    "series": "TOYOTA AQUA",
+    "year": "2022",
+    "mileage": "19748(km)",
+    "price": "FOB: $13,176",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12282958_carP_l_1.jpg",
+    "link": "/vehicles/toyota/aqua/240837626"
+  },
+  {
+    "series": "BMW 4 SERIES",
+    "year": "2018",
+    "mileage": "30630(km)",
+    "price": "FOB: $14,605",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12287620_carP_l_1.jpg",
+    "link": "/vehicles/bmw/4-series/240837606"
+  },
+  {
+    "series": "NISSAN ELGRAND",
+    "year": "2019",
+    "mileage": "43000(km)",
+    "price": "FOB: $14,712",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12500422_carP_l_1.jpg",
+    "link": "/vehicles/nissan/elgrand/240854929"
+  },
+  {
+    "series": "DAIHATSU MOVE",
+    "year": "2019",
+    "mileage": "54728(km)",
+    "price": "FOB: $4,184",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12900700_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/move/240854625"
+  },
+  {
+    "series": "DAIHATSU MOVE",
+    "year": "2019",
+    "mileage": "39962(km)",
+    "price": "FOB: $5,086",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12900695_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/move/240854624"
+  },
+  {
+    "series": "SUZUKI ALTO",
+    "year": "2014",
+    "mileage": "23649(km)",
+    "price": "FOB: $3,111",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12273024_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/alto/240846687"
+  },
+  {
+    "series": "TOYOTA HIACE VAN",
+    "year": "2017",
+    "mileage": "14161(km)",
+    "price": "FOB: $11,112",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12354852_carP_l_1.jpg",
+    "link": "/vehicles/toyota/hiace-van/240838573"
+  },
+  {
+    "series": "SUZUKI EVERY WAGON",
+    "year": "2020",
+    "mileage": "39000(km)",
+    "price": "FOB: $8,572",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12349013_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/every-wagon/240838051"
+  },
+  {
+    "series": "TOYOTA HARRIER",
+    "year": "2017",
+    "mileage": "51000(km)",
+    "price": "FOB: $12,573",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12390259_carP_l_1.jpg",
+    "link": "/vehicles/toyota/harrier/240838050"
+  },
+  {
+    "series": "LEXUS ES",
+    "year": "2023",
+    "mileage": "16000(km)",
+    "price": "FOB: $33,591",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12108582_carP_l_1.jpg",
+    "link": "/vehicles/lexus/es/240838029"
+  },
+  {
+    "series": "SUBARU IMPREZA SPORTS",
+    "year": "2021",
+    "mileage": "91857(km)",
+    "price": "FOB: $7,905",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12467278_carP_l_1.jpg",
+    "link": "/vehicles/subaru/impreza-sports/240837952"
+  },
+  {
+    "series": "SUZUKI HUSTLER",
+    "year": "2023",
+    "mileage": "3818(km)",
+    "price": "FOB: $8,509",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12431473_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/hustler/240837932"
+  },
+  {
+    "series": "VOLKSWAGEN THE BEETLE",
+    "year": "2012",
+    "mileage": "106109(km)",
+    "price": "FOB: $2,914",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12241731_carP_l_1.jpg",
+    "link": "/vehicles/volkswagen/the-beetle/240837886"
+  },
+  {
+    "series": "DAIHATSU TANTO",
+    "year": "2014",
+    "mileage": "63100(km)",
+    "price": "FOB: $5,969",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12282585_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/tanto/240837864"
+  },
+  {
+    "series": "SUZUKI WAGON R",
+    "year": "2017",
+    "mileage": "43930(km)",
+    "price": "FOB: $4,318",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/11343170_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/wagon-r/240837842"
+  },
+  {
+    "series": "MERCEDES BENZ MERCEDES BENZ OTHER",
+    "year": "2015",
+    "mileage": "37147(km)",
+    "price": "FOB: $14,859",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12287871_carP_l_1.jpg",
+    "link": "/vehicles/mercedes-benz/mercedes-benz-other/240837819"
+  },
+  {
+    "series": "TOYOTA COASTER",
+    "year": "2018",
+    "mileage": "65267(km)",
+    "price": "FOB: $40,627",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12343939_carP_l_1.jpg",
+    "link": "/vehicles/toyota/coaster/240837797"
+  },
+  {
+    "series": "SUZUKI CARRY TRUCK",
+    "year": "2016",
+    "mileage": "79607(km)",
+    "price": "FOB: $3,162",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12211489_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/carry-truck/240837714"
+  },
+  {
+    "series": "SUBARU FORESTER",
+    "year": "2022",
+    "mileage": "14205(km)",
+    "price": "FOB: $23,812",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12446454_carP_l_1.jpg",
+    "link": "/vehicles/subaru/forester/240837648"
+  },
+  {
+    "series": "TOYOTA AQUA",
+    "year": "2022",
+    "mileage": "19748(km)",
+    "price": "FOB: $13,176",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12282958_carP_l_1.jpg",
+    "link": "/vehicles/toyota/aqua/240837626"
+  },
+  {
+    "series": "BMW 4 SERIES",
+    "year": "2018",
+    "mileage": "30630(km)",
+    "price": "FOB: $14,605",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12287620_carP_l_1.jpg",
+    "link": "/vehicles/bmw/4-series/240837606"
+  },
+  {
+    "series": "HONDA N-BOX",
+    "year": "2014",
+    "mileage": "116000(km)",
+    "price": "FOB: $2,127",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12304207_carP_l_1.jpg",
+    "link": "/vehicles/honda/n-box/240839518"
+  },
+  {
+    "series": "CITROEN C4 CACTUS",
+    "year": "2017",
+    "mileage": "61000(km)",
+    "price": "FOB: $5,143",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12334419_carP_l_1.jpg",
+    "link": "/vehicles/citroen/c4-cactus/240838921"
+  },
+  {
+    "series": "SUBARU LEGACY TOURING WAGON",
+    "year": "2013",
+    "mileage": "88521(km)",
+    "price": "FOB: $4,356",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12405513_carP_l_1.jpg",
+    "link": "/vehicles/subaru/legacy-touring-wagon/240838787"
+  },
+  {
+    "series": "SUZUKI HUSTLER",
+    "year": "2020",
+    "mileage": "15000(km)",
+    "price": "FOB: $6,286",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12391075_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/hustler/240838723"
+  },
+  {
+    "series": "NISSAN DAYZ",
+    "year": "2018",
+    "mileage": "12000(km)",
+    "price": "FOB: $4,127",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12256927_carP_l_1.jpg",
+    "link": "/vehicles/nissan/dayz/240838701"
+  },
+  {
+    "series": "DAIHATSU MOVE CONTE",
+    "year": "2009",
+    "mileage": "45750(km)",
+    "price": "FOB: $2,603",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12287773_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/move-conte/240838680"
+  },
+  {
+    "series": "TOYOTA C-HR",
+    "year": "2017",
+    "mileage": "106000(km)",
+    "price": "FOB: $8,178",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12000716_carP_l_1.jpg",
+    "link": "/vehicles/toyota/c-hr/240838641"
+  },
+  {
+    "series": "MITSUBISHI ECLIPSE CROSS",
+    "year": "2018",
+    "mileage": "23000(km)",
+    "price": "FOB: $12,382",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/7662225_carP_l_1.jpg",
+    "link": "/vehicles/mitsubishi/eclipse-cross/240838628"
+  },
+  {
+    "series": "TOYOTA HIACE VAN",
+    "year": "2019",
+    "mileage": "59532(km)",
+    "price": "FOB: $17,526",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12354778_carP_l_1.jpg",
+    "link": "/vehicles/toyota/hiace-van/240838618"
+  },
+  {
+    "series": "TOYOTA HIACE VAN",
+    "year": "2017",
+    "mileage": "14161(km)",
+    "price": "FOB: $11,112",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12354852_carP_l_1.jpg",
+    "link": "/vehicles/toyota/hiace-van/240838573"
+  },
+  {
+    "series": "TOYOTA ESTIMA",
+    "year": "2011",
+    "mileage": "90200(km)",
+    "price": "FOB: $3,549",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12144196_carP_l_1.jpg",
+    "link": "/vehicles/toyota/estima/240838551"
+  },
+  {
+    "series": "NISSAN GT-R",
+    "year": "2021",
+    "mileage": "2600(km)",
+    "price": "FOB: $104,063",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12421683_carP_l_1.jpg",
+    "link": "/vehicles/nissan/gt-r/240838549"
+  },
+  {
+    "series": "MERCEDES BENZ E-CLASS",
+    "year": "2015",
+    "mileage": "104300(km)",
+    "price": "FOB: $5,708",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12343768_carP_l_1.jpg",
+    "link": "/vehicles/mercedes-benz/e-class/240838529"
+  },
+  {
+    "series": "NISSAN X-TRAIL",
+    "year": "2024",
+    "mileage": "10(km)",
+    "price": "FOB: $28,270",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12395107_carP_l_1.jpg",
+    "link": "/vehicles/nissan/x-trail/240838483"
+  },
+  {
+    "series": "DAIHATSU TAFT",
+    "year": "2021",
+    "mileage": "11452(km)",
+    "price": "FOB: $8,623",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12416072_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/taft/240838369"
+  },
+  {
+    "series": "TOYOTA VELLFIRE",
+    "year": "2010",
+    "mileage": "135700(km)",
+    "price": "FOB: $3,168",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12369595_carP_l_1.jpg",
+    "link": "/vehicles/toyota/vellfire/240838368"
+  },
+  {
+    "series": "SUZUKI EVERY WAGON",
+    "year": "2020",
+    "mileage": "30643(km)",
+    "price": "FOB: $6,883",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12308562_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/every-wagon/240838325"
+  },
+  {
+    "series": "HONDA FREED",
+    "year": "2013",
+    "mileage": "59730(km)",
+    "price": "FOB: $4,254",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12302897_carP_l_1.jpg",
+    "link": "/vehicles/honda/freed/240838284"
+  },
+  {
+    "series": "MINI MINI",
+    "year": "2013",
+    "mileage": "64199(km)",
+    "price": "FOB: $4,349",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12287886_carP_l_1.jpg",
+    "link": "/vehicles/mini/mini/240838282"
+  },
+  {
+    "series": "TOYOTA SIENTA",
+    "year": "2019",
+    "mileage": "18562(km)",
+    "price": "FOB: $11,938",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12308353_carP_l_1.jpg",
+    "link": "/vehicles/toyota/sienta/240838153"
+  },
+  {
+    "series": "SUBARU LEVORG",
+    "year": "2021",
+    "mileage": "25280(km)",
+    "price": "FOB: $18,351",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12437227_carP_l_1.jpg",
+    "link": "/vehicles/subaru/levorg/240840902"
+  },
+  {
+    "series": "MERCEDES BENZ E-CLASS",
+    "year": "2018",
+    "mileage": "54100(km)",
+    "price": "FOB: $16,192",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12354537_carP_l_1.jpg",
+    "link": "/vehicles/mercedes-benz/e-class/240840115"
+  },
+  {
+    "series": "PORSCHE CAYENNE",
+    "year": "2019",
+    "mileage": "29355(km)",
+    "price": "FOB: $36,830",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12308359_carP_l_1.jpg",
+    "link": "/vehicles/porsche/cayenne/240840051"
+  },
+  {
+    "series": "AUDI Q5",
+    "year": "2018",
+    "mileage": "39600(km)",
+    "price": "FOB:",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12268834_carP_l_1.jpg",
+    "link": "/vehicles/audi/q5/240839800"
+  },
+  {
+    "series": "AUDI Q2",
+    "year": "2024",
+    "mileage": "20(km)",
+    "price": "FOB: $19,729",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12204878_carP_l_1.jpg",
+    "link": "/vehicles/audi/q2/240839798"
+  },
+  {
+    "series": "VOLKSWAGEN TIGUAN",
+    "year": "2021",
+    "mileage": "7010(km)",
+    "price": "FOB: $25,050",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12369829_carP_l_1.jpg",
+    "link": "/vehicles/volkswagen/tiguan/240839752"
+  },
+  {
+    "series": "DAIHATSU TANTO",
+    "year": "2015",
+    "mileage": "34594(km)",
+    "price": "FOB: $3,587",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12364589_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/tanto/240839710"
+  },
+  {
+    "series": "MAZDA ATENZA WAGON",
+    "year": "2013",
+    "mileage": "79442(km)",
+    "price": "FOB: $634,936",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12231542_carP_l_1.jpg",
+    "link": "/vehicles/mazda/atenza-wagon/240839688"
+  },
+  {
+    "series": "AUDI A6 AVANT",
+    "year": "2020",
+    "mileage": "32700(km)",
+    "price": "FOB: $24,809",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12104340_carP_l_1.jpg",
+    "link": "/vehicles/audi/a6-avant/240839560"
+  },
+  {
+    "series": "HONDA N-BOX",
+    "year": "2014",
+    "mileage": "116000(km)",
+    "price": "FOB: $2,127",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12304207_carP_l_1.jpg",
+    "link": "/vehicles/honda/n-box/240839518"
+  },
+  {
+    "series": "TOYOTA PRIUS",
+    "year": "2014",
+    "mileage": "121000(km)",
+    "price": "FOB: $3,803",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12160547_carP_l_1.jpg",
+    "link": "/vehicles/toyota/prius/240839516"
+  },
+  {
+    "series": "TOYOTA YARIS CROSS",
+    "year": "2021",
+    "mileage": "39000(km)",
+    "price": "FOB: $14,605",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12179907_carP_l_1.jpg",
+    "link": "/vehicles/toyota/yaris-cross/240839388"
+  },
+  {
+    "series": "TOYOTA C-HR",
+    "year": "2018",
+    "mileage": "34000(km)",
+    "price": "FOB: $10,096",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12179891_carP_l_1.jpg",
+    "link": "/vehicles/toyota/c-hr/240839384"
+  },
+  {
+    "series": "NISSAN X-TRAIL",
+    "year": "2011",
+    "mileage": "67000(km)",
+    "price": "FOB: $3,810",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12179941_carP_l_1.jpg",
+    "link": "/vehicles/nissan/x-trail/240839364"
+  },
+  {
+    "series": "VOLKSWAGEN SHARAN",
+    "year": "2015",
+    "mileage": "85650(km)",
+    "price": "FOB: $8,877",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12354701_carP_l_1.jpg",
+    "link": "/vehicles/volkswagen/sharan/240839255"
+  },
+  {
+    "series": "TOYOTA RAV4",
+    "year": "2021",
+    "mileage": "33034(km)",
+    "price": "FOB: $19,367",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12369114_carP_l_1.jpg",
+    "link": "/vehicles/toyota/rav4/240839209"
+  },
+  {
+    "series": "TOYOTA ALPHARD",
+    "year": "2020",
+    "mileage": "188729(km)",
+    "price": "FOB: $21,875",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12348927_carP_l_1.jpg",
+    "link": "/vehicles/toyota/alphard/240839187"
+  },
+  {
+    "series": "DAIHATSU MIRA E:S",
+    "year": "2019",
+    "mileage": "68728(km)",
+    "price": "FOB: $2,089",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12369171_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/mira-e:s/240839141"
+  },
+  {
+    "series": "NISSAN NOTE",
+    "year": "2016",
+    "mileage": "35408(km)",
+    "price": "FOB: $4,368",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12272548_carP_l_1.jpg",
+    "link": "/vehicles/nissan/note/240839122"
+  },
+  {
+    "series": "HONDA FIT",
+    "year": "2019",
+    "mileage": "45560(km)",
+    "price": "FOB: $5,715",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/11345804_carP_l_1.jpg",
+    "link": "/vehicles/honda/fit/240839054"
+  },
+  {
+    "series": "NISSAN SKYLINE",
+    "year": "1990",
+    "mileage": "39504(km)",
+    "price": "FOB: $39,357",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12467435_carP_l_1.jpg",
+    "link": "/vehicles/nissan/skyline/240841997"
+  },
+  {
+    "series": "SUZUKI ALTO LAPIN",
+    "year": "2017",
+    "mileage": "29976(km)",
+    "price": "FOB: $6,032",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12334187_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/alto-lapin/240841352"
+  },
+  {
+    "series": "MERCEDES BENZ E-CLASS",
+    "year": "2018",
+    "mileage": "49238(km)",
+    "price": "FOB: $22,923",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12252056_carP_l_1.jpg",
+    "link": "/vehicles/mercedes-benz/e-class/240841333"
+  },
+  {
+    "series": "SUZUKI JIMNY",
+    "year": "2006",
+    "mileage": "127000(km)",
+    "price": "FOB:",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12415833_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/jimny/240841290"
+  },
+  {
+    "series": "SUZUKI SOLIO BANDIT",
+    "year": "2020",
+    "mileage": "10991(km)",
+    "price": "FOB: $10,287",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12457088_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/solio-bandit/240841228"
+  },
+  {
+    "series": "SUZUKI SPACIA CUSTOM",
+    "year": "2013",
+    "mileage": "159259(km)",
+    "price": "FOB: $1,263",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12457186_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/spacia-custom/240841211"
+  },
+  {
+    "series": "DAIHATSU TAFT",
+    "year": "2024",
+    "mileage": "10(km)",
+    "price": "FOB: $8,636",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12323797_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/taft/240841183"
+  },
+  {
+    "series": "HONDA N-BOX CUSTOM",
+    "year": "2017",
+    "mileage": "98521(km)",
+    "price": "FOB: $4,953",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12446829_carP_l_1.jpg",
+    "link": "/vehicles/honda/n-box-custom/240841115"
+  },
+  {
+    "series": "SUZUKI SPACIA",
+    "year": "2016",
+    "mileage": "45000(km)",
+    "price": "FOB: $2,857",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12272429_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/spacia/240841101"
+  },
+  {
+    "series": "SUBARU LEVORG",
+    "year": "2021",
+    "mileage": "25280(km)",
+    "price": "FOB: $18,351",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12437227_carP_l_1.jpg",
+    "link": "/vehicles/subaru/levorg/240840902"
+  },
+  {
+    "series": "MERCEDES BENZ E-CLASS",
+    "year": "2019",
+    "mileage": "53792(km)",
+    "price": "FOB: $17,018",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12287792_carP_l_1.jpg",
+    "link": "/vehicles/mercedes-benz/e-class/240840876"
+  },
+  {
+    "series": "HONDA STEPWAGON SPADA",
+    "year": "2018",
+    "mileage": "89430(km)",
+    "price": "FOB: $16,687",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/12432104_carP_l_1.jpg",
+    "link": "/vehicles/honda/stepwagon-spada/240840817"
+  },
+  {
+    "series": "SUZUKI EVERY",
+    "year": "2019",
+    "mileage": "63000(km)",
+    "price": "FOB: $7,937",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12330440_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/every/240840769"
+  },
+  {
+    "series": "DAIHATSU HIJET TRUCK",
+    "year": "2018",
+    "mileage": "68200(km)",
+    "price": "FOB: $4,699",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12273132_carP_l_1.jpg",
+    "link": "/vehicles/daihatsu/hijet-truck/240840748"
+  },
+  {
+    "series": "SUZUKI JIMNY",
+    "year": "2022",
+    "mileage": "15685(km)",
+    "price": "FOB: $15,113",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12375260_carP_l_1.jpg",
+    "link": "/vehicles/suzuki/jimny/240840661"
+  },
+  {
+    "series": "MAZDA FLAIR CROSSOVER",
+    "year": "2020",
+    "mileage": "51425(km)",
+    "price": "FOB: $5,600",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12295420_carP_l_1.jpg",
+    "link": "/vehicles/mazda/flair-crossover/240840572"
+  },
+  {
+    "series": "MITSUBISHI EK SPACE",
+    "year": "2018",
+    "mileage": "22000(km)",
+    "price": "FOB: $6,667",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/7731454_carP_l_1.jpg",
+    "link": "/vehicles/mitsubishi/ek-space/240840444"
+  },
+  {
+    "series": "HONDA FREED",
+    "year": "2019",
+    "mileage": "27000(km)",
+    "price": "FOB: $11,176",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12411250_carP_l_1.jpg",
+    "link": "/vehicles/honda/freed/240840443"
+  },
+  {
+    "series": "TOYOTA YARIS",
+    "year": "2024",
+    "mileage": "2433(km)",
+    "price": "FOB: $13,747",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12349030_carP_l_1.jpg",
+    "link": "/vehicles/toyota/yaris/240840402"
+  },
+  {
+    "series": "TOYOTA GR YARIS",
+    "year": "2022",
+    "mileage": "5000(km)",
+    "price": "FOB: $25,082",
+    "imageUrl": "http://www.919919.jp/avn/photo/car/l/12334390_carP_l_1.jpg",
+    "link": "/vehicles/toyota/gr-yaris/240840355"
+  }
+]
