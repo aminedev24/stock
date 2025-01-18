@@ -39,9 +39,12 @@ const App = () => {
               <p><strong>Year:</strong> {car.year}</p>
               <p><strong>Mileage:</strong> {car.mileage}</p>
               <p><strong>Price:</strong> {car.price}</p>
+              {/*
               <a href={car.link} target="_blank" rel="noopener noreferrer">
                 View Details
               </a>
+              */}
+             
             </div>
           </div>
         ))}
